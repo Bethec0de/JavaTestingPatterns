@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Library/jboss-3.2.5/server/all/lib/mail.jar"/>
+	<classpathentry kind="lib" path="/Library/junit3.8.1/junit.jar"/>
+	<classpathentry kind="lib" path="/Library/jboss-3.2.5/server/all/lib/jboss-j2ee.jar"/>
+	<classpathentry kind="lib" path="/Library/weblogic700/server/lib/weblogic.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
